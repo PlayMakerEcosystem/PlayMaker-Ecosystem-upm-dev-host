@@ -1,0 +1,3 @@
+[submodule "Assets/PlayMaker Ecosystem upm"]
+	path = Assets/PlayMaker Ecosystem upm
+	url = https://github.com/PlayMakerEcosystem/PlayMakerEcosystemUpmPackage.git
